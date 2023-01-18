@@ -1,0 +1,96 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" charset="UTF-8">
+        <title>Freelance Form</title>
+        <link rel="icon" type="image/x-icon" href="img/favicon.ico">
+    </head>
+
+    <style>
+        p {
+          text-align: center;
+          color: rgb(11, 46, 102);
+          font-size: 20;1
+        } 
+
+        body {
+             background-image: url('img/back.webp');
+            background-repeat: no-repeat;
+            background-attachment: fixed;  
+            background-size: 100% 100%;
+        }
+        /* sitio de escritorio: */
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+@media only screen and (max-width: 768px) {
+  /* Para mobile: */
+  [class*="col-"] {
+    width: 100%;
+  }
+}
+
+        </style>
+    <h1 style="color: red" align="center">
+        Regístrate
+        <img src="img/logo.png" width="150" />
+    </h1>
+    <HR noshade size="5" width="80%" align="center">
+    <body>
+
+        <form method='POST' action='creararchivo.php'>
+            <p>
+                    <label  for="nombre">Primer Nombre:</label><br>
+                    <input type='text' oninvalid="alert('Debes completar Nombre');" id="nombre" name='nombre'  placeholder="Nombre" maxlength="15" required
+                    oninput="this.value = this.value.replace(/[^A-Za-z]/g, '').replace(/(\..*)\./g, '$1');" /><br>
+
+                      <label  for="nombre">Segundo Nombre:</label><br>
+                    <input type='text' id="nombre" name='nombre2'  placeholder="Nombre" maxlength="15"
+                    oninput="this.value = this.value.replace(/[^A-Za-z]/g, '').replace(/(\..*)\./g, '$1');" /><br>
+                
+                    <label   for="appat">Apellido Paterno:</label><br> 
+                    <input type='text' oninvalid="alert('Debes completar Apellido Paterno');" id="appat" name='appat'  placeholder="Paterno" maxlength="15" required
+                    oninput="this.value = this.value.replace(/[^A-Za-z]/g, '').replace(/(\..*)\./g, '$1');" /><br>
+                
+                    <label  for="apmat">Apellido Materno:</label><br>
+                    <input type='text' oninvalid="alert('Debes completar Apellido Materno');" id="apmat" name='apmat'  placeholder="Materno" maxlength="15" required
+                      oninput="this.value = this.value.replace(/[^A-Za-z]/g, '').replace(/(\..*)\./g, '$1');" /><br>
+        
+                    <label  for="age">Edad:</label><br>
+                    <input type='number' oninvalid="alert('Debes completar Edad');" id="age" name='age' min="01" max="99" placeholder="Años"  required
+                      pattern="[0-9][0-9]"><br>
+                
+                    <label for="tel">Teléfono:</label><br>
+                    <input type='tel' oninvalid="alert('Debes completar Teléfono');" id="tel"name='tel' required maxlength="10" size="10" placeholder="10 Dígitos" required
+                     oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" /><br>
+                
+                    <label  for="Sexo">Sexo:</label><br>
+                    <select name='Sexo'>
+                        <option value='Masculino'>Masculino</option>
+                        <option value='Femenino'>Femenino</option>
+                    </select>
+                <br><br>
+                <input type='submit' value='Enviar'><br><br>
+                <input type="reset" value='Limpiar'>
+                </p>
+        </form>
+        <a href='leerArchivo.php'>Leer Archivo</a>  
+        <HR noshade size="5" width="80%" align="center">
+        <footer>
+            <a>Author: Pedro Samperio 2022</a>
+            <a href="mailto:pedro@example.com">Contacto aqui</a><br>
+            <img src="img/whatsapp_icon.png" align="right" width="50" />
+            <img src="img/instragram_icon.png" align="right" width="50" />
+            <img src="img/Facebook_icon.png" align="right" width="50" />
+        </footer>
+    </body>
+</html>

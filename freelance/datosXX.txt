@@ -1,0 +1,145 @@
+El Nombre es:
+El Apellido Paterno es:
+El Apellidp Materno es:
+La Edad  es:
+El Teléfono es:
+El Sexo es:
+El Nombre es:Carlos
+El Apellido Paterno es:Aguilar
+El Apellidp Materno es:Partido
+La Edad  es:30
+El Teléfono es:55123414123
+El Sexo es:
+El Nombre es:Carlos
+El Apellido Paterno es:Aguilar
+El Apellidp Materno es:Partido
+La Edad  es:30
+El Teléfono es:55123414123
+El Sexo es:
+El Nombre es:Carlos
+El Apellido Paterno es:Aguilar
+El Apellidp Materno es:Partido
+La Edad  es:30
+El Teléfono es:55123414123
+El Sexo es:M
+El Nombre es:Carlos
+El Apellido Paterno es:Aguilar
+El Apellidp Materno es:Partido
+La Edad  es:30
+El Teléfono es:55123414123
+El Sexo es:S
+El Nombre es:Carlos
+El Apellido Paterno es:Aguilar
+El Apellidp Materno es:Partido
+La Edad  es:30
+El Teléfono es:55123414123
+El Sexo es:M
+El Nombre es:Lilian
+El Apellido Paterno es:Nava
+El Apellidp Materno es:Castillo
+La Edad  es:42
+El Teléfono es:5546165500
+El Sexo es:S
+El Nombre es:
+El Apellido Paterno es:
+El Apellidp Materno es:
+La Edad  es:5
+El Teléfono es:
+El Sexo es:M
+El Nombre es:cesar
+El Apellido Paterno es:cruz
+El Apellidp Materno es:ramirez
+La Edad  es:47
+El Teléfono es:55-1234-1231
+El Sexo es:M
+El Primer Nombre es:Cesar
+El Segundo Nombre es:
+El Apellido Paterno es:Cruz
+El Apellidp Materno es:Romero
+La Edad  es:48
+El Teléfono es:55-4321-1213
+El Sexo es:Masculino
+El Primer Nombre es:Marcia
+El Segundo Nombre es:Ysela
+El Apellido Paterno es:Samperio
+El Apellidp Materno es:Torres
+La Edad  es:42
+El Teléfono es:55-4616-5544
+El Sexo es:Femenino
+El Primer Nombre es:
+El Segundo Nombre es:Marcos
+El Apellido Paterno es:Samperio
+El Apellidp Materno es:Torres
+La Edad  es:47
+El Teléfono es:5632068587
+El Sexo es:Masculino
+El Primer Nombre es:pedro
+El Segundo Nombre es:marcos
+El Apellido Paterno es:
+El Apellidp Materno es:
+La Edad  es:47
+El Teléfono es:5512121212
+El Sexo es:Masculino
+El Primer Nombre es:Pedro
+El Segundo Nombre es:
+El Apellido Paterno es:Samperio
+El Apellidp Materno es:Torres
+La Edad  es:47
+El Teléfono es:4444444444
+El Sexo es:Masculino
+El Primer Nombre es:Pedro
+El Segundo Nombre es:
+El Apellido Paterno es:Samperio
+El Apellidp Materno es:Torres
+La Edad  es:
+El Teléfono es:5512341513
+El Sexo es:Masculino
+El Primer Nombre es:Carmen
+El Segundo Nombre es:
+El Apellido Paterno es:Priego
+El Apellidp Materno es:Gomez
+La Edad  es:40
+El Teléfono es:5532432325
+El Sexo es:Femenino
+El Primer Nombre es:Agustina
+El Segundo Nombre es:
+El Apellido Paterno es:Espinoza
+El Apellidp Materno es:Buendia
+La Edad  es:50
+El Teléfono es:5512312413
+El Sexo es:Femenino
+El Primer Nombre es:Agustina
+El Segundo Nombre es:
+El Apellido Paterno es:Espinoza
+El Apellidp Materno es:Buendia
+La Edad  es:50
+El Teléfono es:5512312413
+El Sexo es:Femenino
+El Primer Nombre es:Agustina
+El Segundo Nombre es:
+El Apellido Paterno es:Espinoza
+El Apellidp Materno es:Buendia
+La Edad  es:50
+El Teléfono es:5512312413
+El Sexo es:Femenino
+El Primer Nombre es:Agustina
+El Segundo Nombre es:
+El Apellido Paterno es:Espinoza
+El Apellidp Materno es:Buendia
+La Edad  es:50
+El Teléfono es:5512312413
+El Sexo es:Femenino
+El Primer Nombre es:Agustina
+El Segundo Nombre es:
+El Apellido Paterno es:Espinoza
+El Apellidp Materno es:Buendia
+La Edad  es:50
+El Teléfono es:5512312413
+El Sexo es:Femenino
+El Primer Nombre es:aa
+El Segundo Nombre es:aaa
+El Apellido Paterno es:aa
+El Apellidp Materno es:sdsdd
+La Edad  es:34
+El Teléfono es:444
+El Sexo es:Masculino

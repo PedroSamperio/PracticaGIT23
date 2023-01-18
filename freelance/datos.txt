@@ -1,0 +1,14 @@
+El Primer Nombre es:Zaira
+El Segundo Nombre es:
+El Apellido Paterno es:Godines
+El Apellidp Materno es:Vega
+La Edad  es:30
+El Teléfono es:5532432432
+El Sexo es:Femenino
+El Primer Nombre es:
+El Segundo Nombre es:
+El Apellido Paterno es:
+El Apellidp Materno es:
+La Edad  es:
+El Teléfono es:
+El Sexo es:
